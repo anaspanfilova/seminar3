@@ -1,0 +1,15 @@
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\задача 22\obj\Debug\net6.0\задача 22.csproj.AssemblyReference.cache
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\задача 22\obj\Debug\net6.0\задача 22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\задача 22\obj\Debug\net6.0\задача 22.AssemblyInfoInputs.cache
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\задача 22\obj\Debug\net6.0\задача 22.AssemblyInfo.cs
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\задача 22\obj\Debug\net6.0\задача 22.csproj.CoreCompileInputs.cache
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\задача 22\bin\Debug\net6.0\задача 22.exe
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\задача 22\bin\Debug\net6.0\задача 22.deps.json
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\задача 22\bin\Debug\net6.0\задача 22.runtimeconfig.json
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\задача 22\bin\Debug\net6.0\задача 22.dll
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\задача 22\bin\Debug\net6.0\задача 22.pdb
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\задача 22\obj\Debug\net6.0\задача 22.dll
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\задача 22\obj\Debug\net6.0\refint\задача 22.dll
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\задача 22\obj\Debug\net6.0\задача 22.pdb
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\задача 22\obj\Debug\net6.0\задача 22.genruntimeconfig.cache
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\задача 22\obj\Debug\net6.0\ref\задача 22.dll
