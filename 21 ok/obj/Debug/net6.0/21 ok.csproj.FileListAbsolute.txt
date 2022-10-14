@@ -1,0 +1,15 @@
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\21 ok\obj\Debug\net6.0\21 ok.csproj.AssemblyReference.cache
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\21 ok\obj\Debug\net6.0\21 ok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\21 ok\obj\Debug\net6.0\21 ok.AssemblyInfoInputs.cache
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\21 ok\obj\Debug\net6.0\21 ok.AssemblyInfo.cs
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\21 ok\obj\Debug\net6.0\21 ok.csproj.CoreCompileInputs.cache
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\21 ok\bin\Debug\net6.0\21 ok.exe
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\21 ok\bin\Debug\net6.0\21 ok.deps.json
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\21 ok\bin\Debug\net6.0\21 ok.runtimeconfig.json
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\21 ok\bin\Debug\net6.0\21 ok.dll
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\21 ok\bin\Debug\net6.0\21 ok.pdb
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\21 ok\obj\Debug\net6.0\21 ok.dll
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\21 ok\obj\Debug\net6.0\refint\21 ok.dll
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\21 ok\obj\Debug\net6.0\21 ok.pdb
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\21 ok\obj\Debug\net6.0\21 ok.genruntimeconfig.cache
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\21 ok\obj\Debug\net6.0\ref\21 ok.dll
