@@ -1,0 +1,15 @@
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\задача 21 домашки\obj\Debug\net6.0\задача 21 домашки.csproj.AssemblyReference.cache
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\задача 21 домашки\obj\Debug\net6.0\задача 21 домашки.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\задача 21 домашки\obj\Debug\net6.0\задача 21 домашки.AssemblyInfoInputs.cache
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\задача 21 домашки\obj\Debug\net6.0\задача 21 домашки.AssemblyInfo.cs
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\задача 21 домашки\obj\Debug\net6.0\задача 21 домашки.csproj.CoreCompileInputs.cache
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\задача 21 домашки\bin\Debug\net6.0\задача 21 домашки.exe
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\задача 21 домашки\bin\Debug\net6.0\задача 21 домашки.deps.json
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\задача 21 домашки\bin\Debug\net6.0\задача 21 домашки.runtimeconfig.json
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\задача 21 домашки\bin\Debug\net6.0\задача 21 домашки.dll
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\задача 21 домашки\bin\Debug\net6.0\задача 21 домашки.pdb
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\задача 21 домашки\obj\Debug\net6.0\задача 21 домашки.dll
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\задача 21 домашки\obj\Debug\net6.0\refint\задача 21 домашки.dll
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\задача 21 домашки\obj\Debug\net6.0\задача 21 домашки.pdb
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\задача 21 домашки\obj\Debug\net6.0\задача 21 домашки.genruntimeconfig.cache
+C:\Users\Свтофор\OneDrive\Рабочий стол\Seminar 3\задача 21 домашки\obj\Debug\net6.0\ref\задача 21 домашки.dll
