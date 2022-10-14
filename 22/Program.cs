@@ -6,7 +6,11 @@ void Kvadrat(int a)
 {
     for (int i = 1; i <= a; i++) 
     {
-    Console.Write($"{i*i},");
+        Console.Write($"{i*i}");
+        if (i != a)
+        {
+            Console.Write(", ");
+        }
     }
 }
 Console.Clear();
